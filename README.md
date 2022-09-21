@@ -14,3 +14,5 @@ trashCommit2
 trashCommit3
 
 feat(storybook): PLECOMM-493 add stories for typography
+
+feat(pattern-library): PLECOMM-493 Add typography component
